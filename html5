@@ -1,0 +1,29 @@
+<!DOCTYPE html> 
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Белянин Андрей</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td colspan="2"> 
+                    <iframe src ="№1.html" width="1850" height="260"></iframe>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <iframe src ="№3.html" width="370" height="260"></iframe>
+                </td>
+                <td rowspan="2"> 
+                    <iframe src ="№2.html" width="1472" height="532"></iframe>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <iframe src ="№4.html" width="370" height="260"></iframe>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
